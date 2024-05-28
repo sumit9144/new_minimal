@@ -4,7 +4,7 @@ import Register from './components/Register';
 import Login from './components/Login';
 import Forgot1 from './components/Forget1';
 import Blog from './components/Blog';
-import Profile from './components/Profile';
+import Profile from './components/Profile'; 
 import New_post from './components/New_post';
 import About_social from './components/About_social';
 import About_social2 from './components/About_social2';
